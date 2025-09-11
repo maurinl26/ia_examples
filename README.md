@@ -1,4 +1,4 @@
-# Utilisation d'un agent IA pour la génération de code en PNT
+# Agent IA pour la génération de code en PNT
 
 ## 1. Génération d'un schéma d'advection
 
